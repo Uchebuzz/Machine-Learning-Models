@@ -1,14 +1,3 @@
-Sure! Here's a `README.md` template for a machine learning repository that includes:
-
-* **NLP (Natural Language Processing)** tasks
-* **KMeans** clustering
-* **Apriori** algorithm (Association Rule Mining)
-
-Feel free to edit names, links, and explanations based on your actual code structure.
-
----
-
-```markdown
 # 🧠 Machine Learning Toolkit: NLP, KMeans, Apriori
 
 Welcome to the **Machine Learning Toolkit** — a modular and practical repository demonstrating key machine learning techniques including **Natural Language Processing (NLP)**, **KMeans clustering**, and the **Apriori algorithm** for association rule mining.
@@ -103,16 +92,8 @@ pip install -r requirements.txt
 
 ## 🧠 Credits
 
-Created by **\[Your Name]**
+Created by **\[Uche]**
 Inspired by real-world business problems like customer segmentation, review analysis, and market basket optimization.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
-```
-
-Let me know if you want me to generate a specific part of the code to match this README!
-```
